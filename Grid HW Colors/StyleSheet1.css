@@ -1,0 +1,104 @@
+﻿#body {
+
+}
+
+.container-fluid {
+    border: 3px red dashed;
+}
+
+#header {
+    background-color: beige;
+    border: 2px black solid;
+    min-height: 50px;
+}
+
+#nav {
+    background-color: mediumseagreen;
+    border: 2px black solid;
+    min-height: 50px;
+    color: white;
+}
+
+#section {
+    background-color: darkgrey;
+    border: 2px black solid;
+    min-height: 100px;
+}
+
+#article {
+    background-color:purple;
+    border: 2px black solid;
+    min-height: 100px;
+    color: white;
+}
+
+#aside {
+    background-color: deepskyblue;
+    border: 2px black solid;
+    min-height: 200px;
+}
+
+#footer {
+    background-color: darkgoldenrod;
+    border: 2px black solid;
+    min-height: 50px;
+}
+
+#colors {
+    min-height: 50px;
+}
+
+#blue {
+    background-color: darkblue;
+    border: 2px black solid;
+}
+
+#lightblue {
+    background-color: dodgerblue;
+    border: 2px black solid;
+}
+
+#gold {
+    background-color: darkgoldenrod;
+    border: 2px black solid;
+}
+
+#grey {
+    background-color: lightgrey;
+    border: 2px black solid;
+}
+
+#tan {
+    background-color: lightgoldenrodyellow;
+    border: 2px black solid;
+}
+
+#purple {
+    background-color: purple;
+    border: 2px black solid;
+}
+
+#pukegreen {
+    background-color: darkolivegreen;
+    border: 2px black solid;
+}
+
+#lightpurple {
+    background-color: mediumpurple;
+    border: 2px black solid;
+}
+
+#orange {
+    background-color: darkorange;
+    border: 2px black solid;
+}
+
+#skyblue {
+    background-color: skyblue;
+    border: 2px black solid;
+}
+
+#red {
+    background-color: darkred;
+    border: 2px black solid;
+}
